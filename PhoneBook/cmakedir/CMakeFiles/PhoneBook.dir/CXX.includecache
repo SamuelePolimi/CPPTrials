@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/samuele/Progetti/Trials/PhoneBook/src/Contact.cpp
+Contact.h
+/home/samuele/Progetti/Trials/PhoneBook/src/Contact.h
+iostream
+-
+string
+-
+
+/home/samuele/Progetti/Trials/PhoneBook/src/Contact.h
+string
+-
+
+/home/samuele/Progetti/Trials/PhoneBook/src/Main.cpp
+iostream
+-
+Contact.h
+/home/samuele/Progetti/Trials/PhoneBook/src/Contact.h
+string
+-
+

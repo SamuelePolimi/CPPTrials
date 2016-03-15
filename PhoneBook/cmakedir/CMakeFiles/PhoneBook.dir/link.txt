@@ -1,0 +1,1 @@
+/usr/bin/c++      CMakeFiles/PhoneBook.dir/Main.cpp.o CMakeFiles/PhoneBook.dir/Contact.cpp.o  -o PhoneBook -rdynamic 
